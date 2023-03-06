@@ -1,0 +1,42 @@
+a {
+    outline: none;
+    text-decoration: none;
+  }
+  
+  a:link {
+    color: #D4BD79;
+  }
+  
+  a:visited {
+    color: #D4BD79;
+  }
+  
+  
+  a:hover {
+    padding-bottom: 30px;
+  }
+  
+  a:active {
+    color: #404870;
+  }
+  
+  .leftside {
+  width: 40px;
+  position: fixed;
+  bottom: 0px;
+  left: auto;
+  right: 40px;
+  z-index: 10;
+  color: var(--light-slate);
+  }
+  
+  
+  .mail {
+  margin: 20px auto;
+  padding: 10px;
+  font-family: var(--font-mono);
+  font-size: var(--fz-xxs);
+  line-height: var(--fz-lg);
+  letter-spacing: 0.2em;
+  writing-mode: vertical-rl;
+  }

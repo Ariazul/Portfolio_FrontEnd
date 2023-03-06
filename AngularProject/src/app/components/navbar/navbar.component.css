@@ -1,0 +1,38 @@
+nav {
+    background-color: #0B0D17;
+    font-size:large;
+    letter-spacing: 0.1em;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding-right: 2%;
+    padding-left: 2%;    
+  }
+  
+  a:link {
+    color: #D4BD79;
+  }
+  
+  a:visited {
+    color: #D4BD79;
+  }
+  
+  a:focus {
+    background: #4D401C;
+  }
+  
+  a:hover {
+    background: #4D401C;
+    padding-top: 2%;
+  }
+  
+  a:active {
+    background: #4D401C;
+    color: whitesmoke;
+  }
+
+div {
+  padding-right: 3%;
+}

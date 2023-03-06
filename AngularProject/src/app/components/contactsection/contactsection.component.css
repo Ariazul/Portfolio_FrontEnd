@@ -1,0 +1,35 @@
+section {
+    margin-bottom: 10%;
+}
+
+h1 {
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 0.2em;
+    font-size: clamp(20px, 4vw, 40px);
+}
+
+h2 {  justify-content: center;
+    text-align: center;
+    letter-spacing: 0.2em;
+    font-size: clamp(15px, 3vw, 30px);
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+}
+
+button {
+    background-color: black;
+    border: 2px solid whitesmoke;
+    padding: 1%;
+    margin: 3%;
+    padding-bottom: 0.1%;
+}
+
+p {
+    letter-spacing: 0.1em;
+    font-size: clamp(8px, 1.6vw, 16px);
+    color: whitesmoke;
+}
